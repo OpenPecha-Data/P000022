@@ -1,4 +1,6 @@
-ebook_metadata:
+id: P000022
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། མཉམ་མེད་དྭགས་པོ་ལྷ་རྗེ།
@@ -6,7 +8,6 @@ ebook_metadata:
   - མཛད་པ་པོ། ཞྭ་དམར་བཞི་པ་ཆོས་ཀྱི་གྲགས་པ།
   - མཛད་པ་པོ། ལྷོ་ལ་ཡག་པ་བྱང་ཆུབ་དངོས་གྲུབ།
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: RDI-SS-03
   layers:
   - book_title
   - author
@@ -14,6 +15,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-03
 web_metadata:
   title:
     en: Commentaries on the Four Dharmas of Gampopa
